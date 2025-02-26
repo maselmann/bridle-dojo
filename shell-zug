@@ -1,0 +1,2 @@
+west build -p -b cytron_maker_pi_rp2040        -S usb-console \
+           bridle/samples/helloshell
